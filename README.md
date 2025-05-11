@@ -1,13 +1,12 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# Network Traffic Anomaly Detection Web App
 
-Description of the app ...
+
+This is a Streamlit web application for detecting anomalies in network traffic using a trained deep learning model (Autoencoder). The app allows users to input real-time traffic features (e.g., bytes, packets, ports) and receive a prediction indicating whether the traffic is **normal** or **anomalous**.
+
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://network-traffic-anomaly-detection.streamlit.app/)
 
 ## GitHub Codespaces
 
